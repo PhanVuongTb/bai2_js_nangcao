@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "nameuser": "vuong11",
+      "email": "admin@gmail.com",
+      "status": "aaaaaaaaaaa",
+      "rolesId": "1",
+      "id": 1
+    },
+    {
+      "nameuser": "vuong",
+      "email": "pdvuongtb@gmail.com",
+      "status": "aaaaaaaaaaa",
+      "rolesId": "3",
+      "id": 2
+    },
+    {
+      "nameuser": "vuong12",
+      "email": "admin@gmail.com",
+      "status": "aaaaaaaaaaa",
+      "rolesId": "1",
+      "id": 3
+    },
+    {
+      "nameuser": "vuong15",
+      "email": "admin@gmail.com",
+      "status": "aaaaaaaaaaa",
+      "rolesId": "3",
+      "id": 4
+    }
+  ],
+  "roles": [
+    {
+      "name": "Admin",
+      "id": 1
+    },
+    {
+      "name": "Member",
+      "id": 2
+    },
+    {
+      "name": "Author",
+      "id": 3
+    }
+  ]
+}
